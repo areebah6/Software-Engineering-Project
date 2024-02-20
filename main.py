@@ -175,7 +175,8 @@ def main_menu():
       else:
         print("Please log in or sign up first")
         
-      
+
+
     elif choice == '6':
       print("Exiting program...")
       break
